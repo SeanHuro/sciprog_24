@@ -9,20 +9,23 @@ The file 'Sum.c' calculates the sum of 1/n from n = 1 to n = 1000 and then from 
 ## Compiling
 
 To compile Conversion.c:
-'gcc Conversion.c Conversion -lm'
+'gcc -o Conversion.c Conversion -lm'
 
 To compile Sum.c:
-'gcc Sum.c Sum -lm'
+'gcc -o Sum.c Sum -lm'
 
 ## Execute
 
 Output of Conversion.c:
 
 The number of digits is 25
+
 inum = 33554431, fnum=33554432.000000, inum in binary=1111111111111111111111111
 
 Output of Sum.c:
 
 Sum1 = 7.485478
+
 Sum2 = 7.485472
+
 Difference between the two is 0.000007
