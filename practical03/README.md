@@ -1,4 +1,4 @@
-# Practical 2
+# Practical 3
 
 This folder contains the code files for practical 3.
 
